@@ -1,0 +1,3 @@
+simply create 'bntkey.txt' with the license key
+
+if proxyfile arg isnt shown in script usage its 'http.txt'(ill change that sumtime)
